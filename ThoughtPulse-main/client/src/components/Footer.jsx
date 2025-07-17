@@ -112,7 +112,7 @@ export default function FooterCom() {
               className="text-gray-600 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
             />
             <Footer.Icon
-              href="https://www.instagram.com/__rohith18/"
+              href="https://www.instagram.com"
               target="_blank"
               icon={BsInstagram}
               className="text-gray-600 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
