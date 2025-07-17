@@ -106,7 +106,7 @@ export default function FooterCom() {
           </div>
           <div className="flex gap-6 mt-4 sm:mt-0">
             <Footer.Icon
-              href="https://www.linkedin.com/in/rohithr1809/"
+              href="linkedin.com/in/manoj-n-438310277/"
               target="_blank"
               icon={BsLinkedin}
               className="text-gray-600 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
