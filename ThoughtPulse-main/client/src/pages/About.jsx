@@ -34,8 +34,8 @@ const About = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, ease: "easeOut", delay: 0.5 }}
         >
-          At Manoj'sBlog, we share the latest and most groundbreaking ideas. Our
-          platform is where creativity meets innovation, and where you can
+          At Manoj's Blog, we share the latest and most groundbreaking ideas.
+          Our platform is where creativity meets innovation, and where you can
           explore the future of technology and trends.
         </motion.p>
 
