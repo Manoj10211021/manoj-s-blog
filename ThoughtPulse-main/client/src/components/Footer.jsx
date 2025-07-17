@@ -97,7 +97,7 @@ export default function FooterCom() {
         <Footer.Divider className="border-gray-300 dark:border-gray-600" />
         <div className="flex flex-col sm:flex-row items-center justify-between mt-4">
           <Footer.Copyright
-            by="Rohith"
+            by="Manoj"
             year={new Date().getFullYear()}
             className="text-sm text-gray-600 dark:text-gray-400"
           />
@@ -118,7 +118,7 @@ export default function FooterCom() {
               className="text-gray-600 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
             />
             <Footer.Icon
-              href="https://github.com/rohithr018"
+              href="https://github.com/Manoj10211021"
               target="_blank"
               icon={BsGithub}
               className="text-gray-600 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors"
